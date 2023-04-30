@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtests"
+  site-url: "https://gmjen.github.io/nbdevtests"
+  description: "checking out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/gmjen/nbdevtests"
